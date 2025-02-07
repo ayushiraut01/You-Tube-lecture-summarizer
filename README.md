@@ -30,11 +30,9 @@ The **YouTube Lecture Summarizer** is a tool that extracts and summarizes key in
    pip install -r requirements.txt
    ```
 4. Set up API keys:
-   - Obtain a Whisper API key (if applicable)
-   - Store keys in an `.env` file:
      ```
      YOUTUBE_API_KEY=your_youtube_api_key
-     WHISPER_API_KEY=your_whisper_api_key
+  
      ```
 
 ## Usage
